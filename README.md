@@ -1,1 +1,1 @@
-Coding Demonstration: Creating a function to convert numerical grade to letter grade in python.
+Coding Demonstration: Creating a code to ask the user to input an integer to evaluate in python.
